@@ -6,4 +6,6 @@ Plug the STM32F746G-DISCO board into your Mac, Linux, or Windows PC.  A USB driv
 
 Drag the runtime-patterns-demo.bin file from your downloads directory to the DIS_F746NG drive.
 
+If another program is already running on the DISCO board, hold down the black button on the back of the board, while you drag the new binary file to the DIS_F746NG drive.
+
 The program should appear and begin to run on your DISCO board.
